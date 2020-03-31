@@ -1,0 +1,17 @@
+{
+    "pluginName": "DarkLight",
+    "description": "macOS 深色模式与浅色模式切换",
+    "version": "0.0.1",
+    "author": "Licardo",
+    "homepage": "https://github.com/L1cardo/DarkLight-uTools",
+    "preload": "preload.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "platform": ["darwin"],
+            "code": "darklight",
+            "explain": "macOS 深色模式与浅色模式切换",
+            "cmds": ["DarkLight"]
+        }
+    ]
+}
