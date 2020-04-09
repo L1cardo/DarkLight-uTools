@@ -1,6 +1,6 @@
 # DarkLight-uTools
 
-> Switch macOS appearance from uTools
+> 从 uTools 切换 macOS 系统外观
 
 这个是 [DarkLight](https://github.com/L1cardo/DarkLight) 的 [uTools](https://www.u.tools/) 插件版本，仅支持 macOS 系统
 
