@@ -11,7 +11,7 @@
             "platform": ["darwin"],
             "code": "darklight",
             "explain": "macOS 深色模式与浅色模式切换",
-            "cmds": ["DarkLight"]
+            "cmds": ["DarkLight", "Dark", "Light", "深色", "浅色"]
         }
     ]
 }
